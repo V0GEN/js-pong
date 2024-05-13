@@ -1,1 +1,1 @@
-# js-pong
+# Pong é divertido
