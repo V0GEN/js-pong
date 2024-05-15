@@ -1,3 +1,3 @@
 # Pong é divertido
 
-https://creativecommons.org/publicdomain/zero/1.0/
+Este trabalho está marcado com CC0 1.0 
